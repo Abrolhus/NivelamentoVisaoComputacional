@@ -11,3 +11,12 @@ Exemplo básico de OpenCV
 5. compilar: `make`
 ### para rodar: `./hello <caminho para uma imagem>`
 ### Exemplo: `./hello ../image.png`
+
+
+## O que o programa faz?
+- É um exemplo básico de openCV, mostrando como:
+  - ler uma imagem do input
+  - redimensionar uma imagem
+  - percorrer a imagem pixel a pixel
+  - desenhar na imagem
+  - mostrar diferentes imagens na tela
