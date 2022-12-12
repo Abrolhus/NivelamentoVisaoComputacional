@@ -5,5 +5,5 @@ find_package(OpenCV REQUIRED)
 set(SOURCES
     main.cpp
     )
-add_executable(main ${SOURCES})
+add_executable(hello ${SOURCES})
 target_link_libraries(hello ${OpenCV_LIBS})
