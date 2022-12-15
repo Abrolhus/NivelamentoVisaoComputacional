@@ -1,5 +1,5 @@
 # helloOpenCV
-Exemplo básico de OpenCV
+Exemplo básico de OpenCV **2.4**
 
 
 ## Como compilar?
